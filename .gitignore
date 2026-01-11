@@ -1,0 +1,12 @@
+/data/
+logs/
+.env
+.vscode/
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+.venv/
+coverage/
+secrets/
+*.sqlite3
